@@ -18,23 +18,9 @@
 		01774AE11F38A01E003155CC /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE01F38A01E003155CC /* libstdc++.tbd */; };
 		01774AE31F38A027003155CC /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE21F38A027003155CC /* libresolv.tbd */; };
 		01774AE51F38A030003155CC /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE41F38A030003155CC /* libsqlite3.tbd */; };
-		01BDE9EB1F98E2FE00C9FA6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01773FE51F385BDD003155CC /* LaunchScreen.storyboard */; };
 		01BDE9EF1F98F32B00C9FA6A /* launch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 01BDE9EE1F98F32B00C9FA6A /* launch.jpg */; };
-		3EC482BB1F98BE42003DCE86 /* multi-ios-ent-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */; };
 		3EF3770A1FA5F83800641538 /* fasdgasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF377091FA5F83800641538 /* fasdgasd.swift */; };
-		3EF3770B1FA5F83800641538 /* fasdgasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF377091FA5F83800641538 /* fasdgasd.swift */; };
-		8086EDD81F5934A000A768C6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01773FD81F385BDD003155CC /* AppDelegate.m */; };
-		8086EDE91F5934A000A768C6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01773FD51F385BDD003155CC /* main.m */; };
-		8086EE0A1F5934A000A768C6 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE41F38A030003155CC /* libsqlite3.tbd */; };
-		8086EE0B1F5934A000A768C6 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE21F38A027003155CC /* libresolv.tbd */; };
-		8086EE0C1F5934A000A768C6 /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE01F38A01E003155CC /* libstdc++.tbd */; };
-		8086EE0D1F5934A000A768C6 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774ADE1F38A015003155CC /* libc++.tbd */; };
-		8086EE0E1F5934A000A768C6 /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774ADC1F38A00C003155CC /* libicucore.tbd */; };
-		8086EE0F1F5934A000A768C6 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774ADA1F38A003003155CC /* libxml2.tbd */; };
-		8086EE101F5934A000A768C6 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AD81F389FFA003155CC /* libz.tbd */; };
-		8086EE1C1F5934A000A768C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01773FE31F385BDD003155CC /* Assets.xcassets */; };
 		8086EE321F59352A00A768C6 /* multi-ios-ent-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */; };
-		9AE77EDEDD0E5038EF12BFDA /* libPods-multi-ios-ent.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 994109500CC0720FDA784593 /* libPods-multi-ios-ent.a */; };
 		C88B8DEEB3149F9D13C1FCAA /* libPods-multi-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5181F27FD3A9F16182FDC382 /* libPods-multi-ios.a */; };
 /* End PBXBuildFile section */
 
@@ -61,7 +47,6 @@
 		53631035CD22BF36D9511B8A /* Pods-multi-ios-ent.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios-ent.debug.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent.debug.xcconfig"; sourceTree = "<group>"; };
 		5A7B88DF4FA73809C4F90EDD /* Pods-multi-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios.release.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios.release.xcconfig"; sourceTree = "<group>"; };
 		657818EB6736BDB3490CB691 /* Pods-multi-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios.debug.xcconfig"; sourceTree = "<group>"; };
-		8086EE2F1F5934A000A768C6 /* multi-ios-ent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "multi-ios-ent.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "multi-ios-ent-Info.plist"; sourceTree = "<group>"; };
 		8CB3C81C0D60BBAD0BDC06B1 /* Pods-multi-ios-ent.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios-ent.release.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent.release.xcconfig"; sourceTree = "<group>"; };
 		994109500CC0720FDA784593 /* libPods-multi-ios-ent.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-multi-ios-ent.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -83,21 +68,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8086EE091F5934A000A768C6 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8086EE0A1F5934A000A768C6 /* libsqlite3.tbd in Frameworks */,
-				8086EE0B1F5934A000A768C6 /* libresolv.tbd in Frameworks */,
-				8086EE0C1F5934A000A768C6 /* libstdc++.tbd in Frameworks */,
-				8086EE0D1F5934A000A768C6 /* libc++.tbd in Frameworks */,
-				8086EE0E1F5934A000A768C6 /* libicucore.tbd in Frameworks */,
-				8086EE0F1F5934A000A768C6 /* libxml2.tbd in Frameworks */,
-				8086EE101F5934A000A768C6 /* libz.tbd in Frameworks */,
-				9AE77EDEDD0E5038EF12BFDA /* libPods-multi-ios-ent.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -115,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				01773FD11F385BDD003155CC /* multi-ios.app */,
-				8086EE2F1F5934A000A768C6 /* multi-ios-ent.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -196,26 +165,6 @@
 			productReference = 01773FD11F385BDD003155CC /* multi-ios.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8086EDC71F5934A000A768C6 /* multi-ios-ent */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8086EE2C1F5934A000A768C6 /* Build configuration list for PBXNativeTarget "multi-ios-ent" */;
-			buildPhases = (
-				1D5FB36C62AA666A655EEE7B /* [CP] Check Pods Manifest.lock */,
-				8086EDC91F5934A000A768C6 /* Sources */,
-				8086EE091F5934A000A768C6 /* Frameworks */,
-				8086EE121F5934A000A768C6 /* Resources */,
-				87C7565B5FF380857C09CFE2 /* [CP] Embed Pods Frameworks */,
-				A2A1CC5B3C766D713B0678C6 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "multi-ios-ent";
-			productName = "multi-ios";
-			productReference = 8086EE2F1F5934A000A768C6 /* multi-ios-ent.app */;
-			productType = "com.apple.product-type.application";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -229,16 +178,12 @@
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 2X929829Y4;
 						LastSwiftMigration = 0830;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.Push = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
-					};
-					8086EDC71F5934A000A768C6 = {
-						DevelopmentTeam = A3QX526XMV;
-						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -257,7 +202,6 @@
 			projectRoot = "";
 			targets = (
 				01773FD01F385BDD003155CC /* multi-ios */,
-				8086EDC71F5934A000A768C6 /* multi-ios-ent */,
 			);
 		};
 /* End PBXProject section */
@@ -271,16 +215,6 @@
 				01773FE41F385BDD003155CC /* Assets.xcassets in Resources */,
 				01BDE9EF1F98F32B00C9FA6A /* launch.jpg in Resources */,
 				8086EE321F59352A00A768C6 /* multi-ios-ent-Info.plist in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8086EE121F5934A000A768C6 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				01BDE9EB1F98E2FE00C9FA6A /* LaunchScreen.storyboard in Resources */,
-				3EC482BB1F98BE42003DCE86 /* multi-ios-ent-Info.plist in Resources */,
-				8086EE1C1F5934A000A768C6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,24 +234,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		1D5FB36C62AA666A655EEE7B /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-multi-ios-ent-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6E8728D36BA64742A9403AC1 /* [CP] Copy Pods Resources */ = {
@@ -686,387 +602,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		87C7565B5FF380857C09CFE2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A2A1CC5B3C766D713B0678C6 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent-resources.sh",
-				"${PODS_ROOT}/BaiduMap-iOS-SDK/BaiduMapAPI/BaiduMapAPI_Map.framework/Resources/mapapi.bundle",
-				"${PODS_ROOT}/ZFPlayer/ZFPlayer/ZFPlayer.bundle",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGBankCard/Resouce/MGBankCardResource.bundle/MGBankCard.strings",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGCardClass/MGIDCardDefaultViewController.xib",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGIDCardResource.bundle/MGIDCard.strings",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGLiveResource.bundle/MGFaceDetection.strings",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGBankCard/Resouce/MGBankCardResource.bundle",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGIDCardResource.bundle",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/MGLiveResource.bundle",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/model/cr_btn_go_back@2x.png",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/model/MegIDCardQuality_model",
-				"${PODS_ROOT}/faceid-ios/Face++/MegLive_MegIDCardQuality/model/MegLive_model",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/Base.lproj/XNLocalizable.strings",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/en.lproj/XNLocalizable.strings",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/Configure/expressionImage_custom.plist",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/Configure/XN_Configure.plist",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_back_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_back_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_back_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_back_btn_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_camera_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_camera_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_camera_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_camera_btn_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_inputView_bg@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_left@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_left@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_left_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_right@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_right@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_right_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_chat_right_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_circle_noselect.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_circle_select.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_close_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_close_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_close_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_close_btn_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_emoji_cancel@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_emoji_cancel@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_evaluate_left@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_evaluate_right@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_face_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_face_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_FK_icon@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_FK_icon@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_image_chat_left@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_image_chat_left@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_image_chat_right@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_image_chat_right@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_image_download.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_inputView_RobotChange@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_inputView_RobotChange@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_inputView_RobotChange_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_inputView_RobotChange_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_keyboard_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_keyboard_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_KF_icon@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound0@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound0@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound1@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound1@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound2@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_left_sound2@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_line_horizon.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_line_vertical.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/NTalker_LinkCard_Image.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_linkCard_shadow.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_more_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_more_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_msg_failed@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_order_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_order_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_pic_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_pic_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_pic_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_pic_btn_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_recentGoods_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_recentGoods_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending0.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending1.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending2.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending3.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending4.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending5.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending6.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending7.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending8.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_ending9.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_tooShort.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume1.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume2.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume3.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume4.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume5.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume6.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume7.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_record_volume8.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound0@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound0@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound1@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound1@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound2@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound2@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_sound@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_status_noselect.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_status_select.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_value_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_value_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_value_btn_selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_value_btn_selected@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_btn_selected.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_downloadFailed@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_record@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_recordBack@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_recordCancel@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_recordPlay@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_recordSend@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_video_record_hightLight@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_voice_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/ntalker_voice_btn@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/order_dottedLine.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[dk].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[dn].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[dy].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[fn].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[gg].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[hx].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[jy].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[ku].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[kx].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[ll].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[ok].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[sh].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[sj].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[tx].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[ws].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[wx].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[xh].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[yw].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[zb].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle/[zj].png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/zh-Hans.lproj/XNLocalizable.strings",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/MyLocation.gpx",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/BaseUI/SubView/ActivityIndicaator.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/localO2O_pro.txt",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/localO2O_uat.txt",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/AddLocation_Black@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/back_goodsitem@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/back_goodsitem@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/demoimage@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/iconfont-gou@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/icon_tel.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/icon_user_header.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading1@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading2@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading3@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading4@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading5@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading6@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading7@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loading@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/loadinglogo@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/Oval 26 Copy@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/self_phone@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/上选中@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/下选中@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/分类@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/切换送货地点.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/切换门店修改.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/图层-34@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/地址默认@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/增加收货地址@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/定位到华润门店.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/已售罄@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/按钮默认@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/搜索@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/搜索框@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/收件人@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/收货电话@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/筛选@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/订单默认@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/购物车_v1@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/购物车_v1@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/返回@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/返回@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/送到这里-拷贝-2@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/送到这里@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/Pictures/首页@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/AddressSearch/AddAddressTableViewStoryBoard.storyboard",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/AddressSearch/Edit - selected@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/AddressSearch/Edit@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/AdressViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/view/AddressNormalTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/AdressViewController/view/AddressTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/CityViewController/CityViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/BannerViewController/BannerSegueViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ClassificationViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ProductListViewController/productListCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ProductListViewController/ProductListViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ProductListViewController/ProductNewListViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ScreenViewController/countryViewController/countryViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ScreenViewController/ScreenViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/ScreenViewController/selectCityController/selectCityViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/SearchTableViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/STableViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/view/HistoryTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/view/searchHeaderView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/view/searchHotGoodsCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/Controller/SearchViewContrlloer/view/searchHotgoodsTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/CargoCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/CargoTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/DistributionCountry/countryCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/DistributionCountry/distributionCountryTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/FenLeiReusableHeader.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/HistorySearchCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/HotKeyCollectionCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/productListView/ProductCellLiat.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/productListView/ProductListNewTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/productListView/ProductListTopButtonView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Classification/View/TableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/ChildGroupGoodsCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/CommentCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsAttriContent.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsInfoCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsInfoFooter.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsMenuCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsServiceCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GoodsServiceCell1.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GroupGoodsCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Goods/GroupGoodsOpenedCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/Login/LoginViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/OrderItemCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/PaymentViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/SpecsContentView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJExchangeGoodsTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJExchangeGoodsView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJExchangeGoodsViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJReasonListView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJReturnGoodsCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJReturnGoodsTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJReturnGoodsView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJReturnGoodsViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyOrder/WJSteperView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyPrePayCardController/MyPrePayCardViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyPrePayCardController/PrePayCardPayViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/MyPrePayCardController/UpdatePrePayCardPwdViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/OrderDetailViewController/OrderDetailViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/OrderLogInfo/OrderLogInfoViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/OrderLogInfo/view/OrderLogInfoTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/activitiThemeCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/activitiThemeColloction.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/CityCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/HomePageButtonCollection.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/jinPinBannerCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/jinPinRecommendCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/LoveLiftTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/LoveLiftTableViewCellCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/OrderDetailFooterView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/OrderDetailHeaderView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/OrderDetailViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/RecommendCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/TopCollectionCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/WanJiaJinXuanCell3.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/WanJiaTopCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/wanjiaXianhuoCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/XianHuoCollectionCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/XianHuoGoodsCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/UIViews/XianHuoGoodsTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/dataozhen/DescView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/LoactionViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/MenDianListViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/MenDianMapViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/wanjiaSong.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/controller/订单结算分享oderPayGoodsListShareVirecontroller/orderPayGoodsListShareViewController.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/meiyoumendian-568@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/meiyoumendian.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/meiyoumendian@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/xiaban-568@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/xiaban.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/images/xiaban@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/berserkCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/BestPriceCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/burstCollectionCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/CollectionButtonTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OActicityPlusCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OActivityCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OBannerCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OBrandCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OClassificationCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OCollectionHeaderView.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/O2OPromotionCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/payShareGoodsTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/SongQiangCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/surprisePriceCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WangJiaSongActivityTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSnogBrandCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongActivityCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongBrandTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongButtonCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongHorizontalProductListCollectionViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongHorizontalProductListTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/OB2Libs/WJO2OClass/wanjiasong/view/WanJiaSongTopMsgTableViewCell.xib",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/ico-clear.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/ico-clear@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/ico-clear@3x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/nav_delete_btn.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/nav_delete_btn@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/wallpaper_placeholder.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle/wallpaper_placeholder@2x.png",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/Manager/NTalk/NTalker/NTalkerUIKitResource.bundle",
-				"${PODS_ROOT}/goods_ios/goods_ios/Classes/SDK/Hrt2WJ/PubLibs/LSPotoBrowser/MLPhotoBrowser/MLPhotoBrowser.bundle",
-				"${PODS_ROOT}/goods_ios/goods_ios/Assets.xcassets",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardPackage/Controller/HrtApplyCarddetailViewController.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/Controller/HrtBindCardBindActionVC.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/Controller/HrtBindCardFinishedVC.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/Controller/HrtBindCardInfoInputVC.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/Controller/HrtBindCardLeadVC.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/Controller/HrtBindCardVerifyCodeVC.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/View/HrtBindCardInfoCell.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_CardUnion/View/HrtMoreCardListCell.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_Setting/Controller/HrtSettingEmailViewController.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_UserInfo/MVC_IdCard/View/HrtUserInfoIdCardButtonViewCell.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_UserInfo/MVC_IdCard/View/HrtUserInfoIdCardCell.xib",
-				"${PODS_ROOT}/members-ios/member+point/MVC/MVC_UserCenter/MVC_UserInfo/MVC_IdCard/View/HrtUserInfoIdCardPromptCell.xib",
-				"${PODS_ROOT}/members-ios/member+point/SDK/AliPaySDK/AlipaySDK.framework/en.lproj/InfoPlist.strings",
-				"${PODS_ROOT}/members-ios/member+point/SDK/AliPaySDK/AlipaySDK.bundle",
-				"${PODS_ROOT}/members-ios/member+point/SDK/JMKeyBoardRes.bundle",
-				"${PODS_ROOT}/members-ios/members-ios/Assets.xcassets",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Manager/DBManager/AddressMgr/region.s3db",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Manager/WebOfflineManager/LocalConfigFile.plist",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/MVC/MVC_OpPlatform/View/PublicView/CategoryView/HrtGoodsInfoCellContent.xib",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/Tools/IQKeyboardManager/Resources/IQKeyboardManager.bundle",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/UIKit+Category/MJPhotoBrowser/MJPhotoBrowser.bundle",
-				"${PODS_ROOT}/platform-ios/platform-ios/Classes/UIKit+Category/MJRefresh/MJRefresh.bundle",
-				"${PODS_ROOT}/platform-ios/platform-ios/Assets.xcassets",
-				"${PODS_ROOT}/sns-ios/HrtShareSDK/Extend/libWeiboSDK/WeiboSDK.bundle",
-				"${PODS_ROOT}/sns-ios/HrtShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		CB27EFE05695D5BFEB0F8D81 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1095,16 +630,6 @@
 				01773FD91F385BDD003155CC /* AppDelegate.m in Sources */,
 				01773FD61F385BDD003155CC /* main.m in Sources */,
 				3EF3770A1FA5F83800641538 /* fasdgasd.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8086EDC91F5934A000A768C6 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8086EDD81F5934A000A768C6 /* AppDelegate.m in Sources */,
-				8086EDE91F5934A000A768C6 /* main.m in Sources */,
-				3EF3770B1FA5F83800641538 /* fasdgasd.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1218,9 +743,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "multi-ios/multi-ios.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: China Resources Networks ( Shenzhen) Co., Ltd (2X929829Y4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: China Resources Networks ( Shenzhen) Co., Ltd (2X929829Y4)";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 2X929829Y4;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1262,10 +787,10 @@
 					"$(PROJECT_DIR)/members-ios/member+point/SDK/AliPaySDK",
 					"$(PROJECT_DIR)/HrtPay/SDK/CFCAA",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.crc.crt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crc.testApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "79213367-028e-49b4-91cf-befb2a56a564";
+				PROVISIONING_PROFILE_SPECIFIER = HrtTestAppStore;
 				SWIFT_OBJC_BRIDGING_HEADER = "multi-ios/multi-ios-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "SwiftModule-Swift.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1279,9 +804,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "multi-ios/multi-ios.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: China Resources Networks ( Shenzhen) Co., Ltd (2X929829Y4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: China Resources Networks ( Shenzhen) Co., Ltd (2X929829Y4)";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 2X929829Y4;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1328,134 +853,10 @@
 					"$(PROJECT_DIR)/members-ios/member+point/SDK/UnionPaySDK",
 					"$(PROJECT_DIR)/HrtPay/SDK/CFCAA",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.crc.crt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crc.testApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "multi-ios/multi-ios-Bridging-Header.h";
-				SWIFT_OBJC_INTERFACE_HEADER_NAME = "SwiftModule-Swift.h";
-				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		8086EE2D1F5934A000A768C6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 53631035CD22BF36D9511B8A /* Pods-multi-ios-ent.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "multi-ios/multi-ios.entitlements";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				DEVELOPMENT_TEAM = A3QX526XMV;
-				ENABLE_BITCODE = NO;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/AliPaySDK",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK",
-				);
-				GCC_NO_COMMON_BLOCKS = NO;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "";
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"${PODS_ROOT}/Headers/Public\"",
-					"\"${PODS_ROOT}/Headers/Public/BaiduMap-iOS-SDK\"",
-					"\"${PODS_ROOT}/Headers/Public/Bugly\"",
-					"\"${PODS_ROOT}/Headers/Public/Masonry\"",
-					"\"${PODS_ROOT}/Headers/Public/Reachability\"",
-					"\"${PODS_ROOT}/Headers/Public/SocketRocket\"",
-					"\"${PODS_ROOT}/Headers/Public/XHLaunchAd\"",
-					"\"${PODS_ROOT}/Headers/Public/ZFPlayer\"",
-					"\"${PODS_ROOT}/Headers/Public/dns-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/faceid-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/getui-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/image-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/jsbridge-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/network-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/platform-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/sns-ios\"",
-					"$(PROJECT_DIR)/member+point/SDK/AliPaySDK",
-					"\"$(SRCROOT)/members-ios/member+point/SDK/AliPaySDK\"",
-				);
-				INFOPLIST_FILE = "multi-ios/multi-ios-ent-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/UnionPaySDK",
-					"\"$(SRCROOT)/members-ios/member+point/SDK/AliPaySDK\"",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/AliPaySDK",
-					"$(PROJECT_DIR)/HrtPay/SDK/CFCAA",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = cn.com.crc.HuaRunTong;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6ab785c2-59d2-4cb6-9c4c-f3961897c435";
-				PROVISIONING_PROFILE_SPECIFIER = "CRC HuaRunTong dis";
-				SWIFT_OBJC_BRIDGING_HEADER = "multi-ios/multi-ios-Bridging-Header.h";
-				SWIFT_OBJC_INTERFACE_HEADER_NAME = "SwiftModule-Swift.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-			};
-			name = Debug;
-		};
-		8086EE2E1F5934A000A768C6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8CB3C81C0D60BBAD0BDC06B1 /* Pods-multi-ios-ent.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "multi-ios/multi-ios.entitlements";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				DEVELOPMENT_TEAM = A3QX526XMV;
-				ENABLE_BITCODE = NO;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/AliPaySDK",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK",
-				);
-				GCC_NO_COMMON_BLOCKS = NO;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"COCOAPODS=1",
-				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"${PODS_ROOT}/Headers/Public\"",
-					"\"${PODS_ROOT}/Headers/Public/BaiduMap-iOS-SDK\"",
-					"\"${PODS_ROOT}/Headers/Public/Bugly\"",
-					"\"${PODS_ROOT}/Headers/Public/Masonry\"",
-					"\"${PODS_ROOT}/Headers/Public/Reachability\"",
-					"\"${PODS_ROOT}/Headers/Public/SocketRocket\"",
-					"\"${PODS_ROOT}/Headers/Public/XHLaunchAd\"",
-					"\"${PODS_ROOT}/Headers/Public/ZFPlayer\"",
-					"\"${PODS_ROOT}/Headers/Public/dns-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/faceid-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/getui-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/image-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/jsbridge-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/network-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/platform-ios\"",
-					"\"${PODS_ROOT}/Headers/Public/sns-ios\"",
-					"$(PROJECT_DIR)/member+point/SDK/AliPaySDK",
-					"\"$(SRCROOT)/members-ios/member+point/SDK/AliPaySDK\"",
-				);
-				INFOPLIST_FILE = "multi-ios/multi-ios-ent-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/goods-ios/Classes/Manager/NTalk/NTalker",
-					"$(PROJECT_DIR)/goods-ios/Classes/Manager/NTalk/NTalker/XNThirdPart/VoiceConvert/lib",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/AliPaySDK",
-					"$(PROJECT_DIR)/members-ios/member+point/SDK/UnionPaySDK",
-					"$(PROJECT_DIR)/HrtPay/SDK/CFCAA",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = cn.com.crc.HuaRunTong;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6ab785c2-59d2-4cb6-9c4c-f3961897c435";
-				PROVISIONING_PROFILE_SPECIFIER = "CRC HuaRunTong dis";
+				PROVISIONING_PROFILE = "79213367-028e-49b4-91cf-befb2a56a564";
+				PROVISIONING_PROFILE_SPECIFIER = HrtTestAppStore;
 				SWIFT_OBJC_BRIDGING_HEADER = "multi-ios/multi-ios-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "SwiftModule-Swift.h";
 				SWIFT_VERSION = 3.0;
@@ -1479,15 +880,6 @@
 			buildConfigurations = (
 				01773FEC1F385BDD003155CC /* Debug */,
 				01773FED1F385BDD003155CC /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8086EE2C1F5934A000A768C6 /* Build configuration list for PBXNativeTarget "multi-ios-ent" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8086EE2D1F5934A000A768C6 /* Debug */,
-				8086EE2E1F5934A000A768C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
