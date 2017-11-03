@@ -20,7 +20,6 @@
 		01774AE51F38A030003155CC /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 01774AE41F38A030003155CC /* libsqlite3.tbd */; };
 		01BDE9EF1F98F32B00C9FA6A /* launch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 01BDE9EE1F98F32B00C9FA6A /* launch.jpg */; };
 		3EF3770A1FA5F83800641538 /* fasdgasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF377091FA5F83800641538 /* fasdgasd.swift */; };
-		8086EE321F59352A00A768C6 /* multi-ios-ent-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */; };
 		C88B8DEEB3149F9D13C1FCAA /* libPods-multi-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5181F27FD3A9F16182FDC382 /* libPods-multi-ios.a */; };
 /* End PBXBuildFile section */
 
@@ -47,7 +46,6 @@
 		53631035CD22BF36D9511B8A /* Pods-multi-ios-ent.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios-ent.debug.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent.debug.xcconfig"; sourceTree = "<group>"; };
 		5A7B88DF4FA73809C4F90EDD /* Pods-multi-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios.release.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios.release.xcconfig"; sourceTree = "<group>"; };
 		657818EB6736BDB3490CB691 /* Pods-multi-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios/Pods-multi-ios.debug.xcconfig"; sourceTree = "<group>"; };
-		8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "multi-ios-ent-Info.plist"; sourceTree = "<group>"; };
 		8CB3C81C0D60BBAD0BDC06B1 /* Pods-multi-ios-ent.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-multi-ios-ent.release.xcconfig"; path = "Pods/Target Support Files/Pods-multi-ios-ent/Pods-multi-ios-ent.release.xcconfig"; sourceTree = "<group>"; };
 		994109500CC0720FDA784593 /* libPods-multi-ios-ent.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-multi-ios-ent.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -93,7 +91,6 @@
 			isa = PBXGroup;
 			children = (
 				01BDE9EE1F98F32B00C9FA6A /* launch.jpg */,
-				8086EE311F59352A00A768C6 /* multi-ios-ent-Info.plist */,
 				012264F71F4AEA25002E6AB5 /* multi-ios.entitlements */,
 				01773FD71F385BDD003155CC /* AppDelegate.h */,
 				01773FD81F385BDD003155CC /* AppDelegate.m */,
@@ -214,7 +211,6 @@
 				01773FE71F385BDD003155CC /* LaunchScreen.storyboard in Resources */,
 				01773FE41F385BDD003155CC /* Assets.xcassets in Resources */,
 				01BDE9EF1F98F32B00C9FA6A /* launch.jpg in Resources */,
-				8086EE321F59352A00A768C6 /* multi-ios-ent-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
