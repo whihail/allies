@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>Pods-multi-ios-ent.xcscheme</key>
+		<key>2BAE64814FB8CE2FAFADEF567F80B3BB</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>Pods-multi-ios.xcscheme</key>
+		<key>4BAF117AA86234E64B89B7C5A647FBBA</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>jsbridge-ios.xcscheme</key>
+		<key>7C46714BA655DE9B953360CDF41CB04E</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
-	<key>SuppressBuildableAutocreation</key>
-	<dict/>
 </dict>
 </plist>
